@@ -3,10 +3,10 @@
 > **Topics:** `voice-cloning` `speech-synthesis` `audio-similarity` `acoustic-analysis` `xtts` `rvc` `speech-metrics`
 
 
-[![Release](https://img.shields.io/badge/Release-v1.0.0-blue.svg)](https://github.com/MobileConduit/voice-clone-evaluator/releases/tag/v1.0.0)
+[![Release](https://img.shields.io/badge/Release-v1.0.0-blue.svg)](https://github.com/shadialhasan/voice-clone-evaluator/releases/tag/v1.0.0)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![CI/CD](https://github.com/MobileConduit/voice-clone-evaluator/actions/workflows/ci.yml/badge.svg)](https://github.com/MobileConduit/voice-clone-evaluator/actions/workflows/ci.yml)
-[![Domain: Speech AI](https://img.shields.io/badge/Domain-Voice%20Cloning-orange.svg)](https://github.com/MobileConduit)
+[![CI/CD](https://github.com/shadialhasan/voice-clone-evaluator/actions/workflows/ci.yml/badge.svg)](https://github.com/shadialhasan/voice-clone-evaluator/actions/workflows/ci.yml)
+[![Domain: Speech AI](https://img.shields.io/badge/Domain-Voice%20Cloning-orange.svg)](https://github.com/shadialhasan)
 [![Python: 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://python.org)
 [![Tests: Pytest](https://img.shields.io/badge/Tests-Pytest-green.svg)](https://docs.pytest.org)
 
@@ -85,7 +85,7 @@ flowchart TD
 
 ```bash
 # Clone the repository
-git clone https://github.com/MobileConduit/voice-clone-evaluator.git
+git clone https://github.com/shadialhasan/voice-clone-evaluator.git
 cd voice-clone-evaluator
 
 # Install dependencies
@@ -142,7 +142,7 @@ pytest -v tests/
 - **Email:** [mhd.shadi.alhasan@gmail.com](mailto:mhd.shadi.alhasan@gmail.com)  
 - **Phone / WhatsApp:** [+963934005922](tel:+963934005922)  
 - **Location:** Damascus, Syria  
-- **GitHub:** [MobileConduit](https://github.com/MobileConduit)  
+- **GitHub:** [shadialhasan](https://github.com/shadialhasan)  
 
 ---
 
