@@ -1,5 +1,6 @@
 # 📊 voice-clone-evaluator
 
+[![Release](https://img.shields.io/badge/Release-v1.0.0-blue.svg)](https://github.com/MobileConduit/voice-clone-evaluator/releases/tag/v1.0.0)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![CI/CD](https://github.com/MobileConduit/voice-clone-evaluator/actions/workflows/ci.yml/badge.svg)](https://github.com/MobileConduit/voice-clone-evaluator/actions/workflows/ci.yml)
 [![Domain: Speech AI](https://img.shields.io/badge/Domain-Voice%20Cloning-orange.svg)](https://github.com/MobileConduit)
