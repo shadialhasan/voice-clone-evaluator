@@ -1,5 +1,8 @@
 # 📊 voice-clone-evaluator
 
+> **Topics:** `voice-cloning` `speech-synthesis` `audio-similarity` `acoustic-analysis` `xtts` `rvc` `speech-metrics`
+
+
 [![Release](https://img.shields.io/badge/Release-v1.0.0-blue.svg)](https://github.com/MobileConduit/voice-clone-evaluator/releases/tag/v1.0.0)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![CI/CD](https://github.com/MobileConduit/voice-clone-evaluator/actions/workflows/ci.yml/badge.svg)](https://github.com/MobileConduit/voice-clone-evaluator/actions/workflows/ci.yml)
