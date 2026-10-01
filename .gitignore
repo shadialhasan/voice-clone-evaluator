@@ -28,3 +28,6 @@ htmlcov/
 .env.local
 .DS_Store
 Thumbs.db
+*.wav
+*.json
+*.csv
